@@ -1,0 +1,20 @@
+p {
+  height: 30px;
+  width: 100px;
+  padding: 15px;
+  background-color: green;
+  color: aqua;
+}
+
+h1 {
+  font-size: 12pt;
+}
+
+h1,
+h2,
+h4 {
+  border: 3px dashed red;
+}
+h2 {
+  border: 3px dashed purple;
+}
